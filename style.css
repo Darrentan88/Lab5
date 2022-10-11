@@ -1,5 +1,5 @@
 body {
-  background-color: SlateBlue;
+  background-color: Black;
 }
 
 h1 {
@@ -7,5 +7,7 @@ h1 {
   margin-left: 20px;
 }
 
-
+th {
+  color: White;
+}
 
